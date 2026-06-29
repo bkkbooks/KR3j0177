@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0177/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0177_WYG_000-1a, image: WYG0872/WYG0872-0129a.png}
+body:
+  text: 硯山齊雜記雜家類四雜品之屬提要臣等謹案硯山齊雜記四卷不著撰人名氏研山為孫承澤齊名或疑即為承澤作然所引查慎行敬業堂詩王士禎居易録等書皆在承澤以後則必不出承澤手考承澤之孫炯有硯山齊珍玩集覽此書或亦炯所撰歟首論六書而附以璽印及刋板告身表文之屬次研說墨譜而附以眼鏡次為銅器考窰器考皆頗足以資考證蓋承澤雖人不足道而於書畫古器則好事賞鑑兩擅其長其所收藏至今為世所重炯承其遺緒耳濡目染具有淵源其所論著一一能詳究始末細别纎微亦足備考索矣乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:edc86bdf30af095a899e54f06801250888d8e0d21d9bc68273deebf984d77800
+metadata:
+  title: 硯山齋雜記
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:26:22.752101'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3j0177/KR3j0177_000.txt
+hash: sha256:09eed85c871f0c293e90591a3ad6e818a3f0c5fd367b5e1a550d38c3bca5992b
